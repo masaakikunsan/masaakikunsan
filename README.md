@@ -2,7 +2,7 @@
 | --- | --- |
 |名前|石岡 将明 a.k.a. masaakikunsan|
 |Twitter|@masaakikunsan|
-|年齢|23歳|
+|年齢|24歳|
 
 ## Career
 
@@ -10,27 +10,27 @@
 
 2016年11月にプログラミングを始めた。
 正社員でエンジニアが二人でいない会社で働きつつ、スタートアップ企業での副業をしていた。
-のちに正社員の方をやめ、いろんな会社を同時並行にやったのち株式会社SCOUTER に正社員で入社。
-Frontend のリーダーや PM (一瞬)をやったりと計11ヶ月働いたのち、退職しフリーランスへ。
+のちに正社員の方をやめ、いろんな会社を同時並行にやったのち 株式会社SCOUTER に正社員で入社。
+Frontend のリーダーや PdM をやったりと計11ヶ月働いたのち、退職しフリーランスへ。
 
 ### エンジニア2年目
 
 フリーランスとして、 Vue や React で開発をやっている環境でSPA開発をやった。
 一ヶ月に5社ぐらい同時に進めながらスキルアップをしていった。
 
-夏にはコミケにオタク達と技術書を出し午前中で完売した。
+夏にはコミケに技術書を出し午前中で完売した。
 https://booth.pm/ja/items/1003204
 
 その他 [JSLounge](https://jslounge.connpass.com/) で講師やメンターをやったり、フロントエンドの技術顧問的なこととか様々経験した。
 
-フリーランスではFrontとAPIのモダンな開発だけでなく、POやPMもやってました。
+フリーランスではFrontとAPIのモダンな開発だけでなく、POやPdMもやってました。
 
 
 ### エンジニア3年目
 
-フリーランスでは一個の事業に集中的にコミットできず、プロダクトを伸ばす動きがしづらかったのもあり、1年やったのちSCOUTERに出戻りをした。
-
-現在は正社員でSCOUTERの新規事業の開発責任者と週1でファンタラクティブ株式会社で新規事業の案件をやっています。
+フリーランスでは一個の事業に集中的にコミットできず、プロダクトを伸ばす動きがしづらかったのもあり、1年やったのちROXXに出戻り。
+新規事業の [back check](https://backcheck.jp) を開発責任者として立ち上げを行った。
+現在は、退職しフリーランスとして活動をしている。
 
 ## Skill
 
@@ -49,7 +49,8 @@ https://booth.pm/ja/items/1003204
     - Vuetify
   - Nuxt.js
   - React
-  - TypeScript(ちょっと)
+  - Next.js
+  - TypeScript
 - Jest
 - Puppetter
 - TestCafe
@@ -77,6 +78,7 @@ https://booth.pm/ja/items/1003204
 
 [Medium](https://medium.com/fabric-tokyo-engineering/nuxt-js-tailwind-css-%E3%81%A7%E7%88%86%E9%80%9F%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%B5%E3%82%A4%E3%83%88%E4%BD%9C%E6%88%90-da2564d73f90)
 
+
 ## Account
 
 [GitHub](https://github.com/masaakikunsan)
@@ -84,6 +86,13 @@ https://booth.pm/ja/items/1003204
 [Twitter](https://twitter.com/masaakikunsan)
 
 [Slides](https://slides.com/masaakikunsan)
+
+
+## Podium
+
+[Vue Fes 2019](https://vuefes.jp/2019/sessions/masaakikunsan/)
+
+[Frontend de Kanpai](https://design.dena.com/report/frokan-7/)
 
 
 ## Review
